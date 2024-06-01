@@ -1,0 +1,35 @@
+Student number: 101286342
+Student Name: Nicolas Gorodnitchi
+Purpose: Run a simulation of a game where 2 heroes try to get out of a pit, snorcs attack them and ninjas attempt to rescue them, but may be turned to snorcs.
+
+## List of Source Files:
+- main.cc
+- defs.h
+- Escape.cc
+- Escape.h
+- Hero.cc
+- Hero.h
+- List.h
+- Participant.cc
+- Participant.h
+- MoveBehaviour.cc
+- MoveBehaviour.h
+- Snorc.ccstr
+- Snorc.h
+- Ninja.h
+- Ninja.cc
+- random.cc
+- MakeFile
+
+## Compilation Command:
+To compile the program, open a terminal and navigate to the directory containing the source files and the Makefile. Run the following command:
+
+make
+
+to run the program:
+
+./A05
+
+to clean up:
+
+make clean
