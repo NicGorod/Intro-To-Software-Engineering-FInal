@@ -1,6 +1,6 @@
-Student number: 101286342
-Student Name: Nicolas Gorodnitchi
+Author: Nicolas Gorodnitchi
 Purpose: Run a simulation of a game where 2 heroes try to get out of a pit, snorcs attack them and ninjas attempt to rescue them, but may be turned to snorcs.
+Details: Heroes can only be damaged, die, and attempt to escape the pit. Snorcs only deal damage and cannot go high in the pit, Ninjas attempt to bring heroes up but if hurt by snorcs will polymorph into them
 
 ## List of Source Files:
 - main.cc
